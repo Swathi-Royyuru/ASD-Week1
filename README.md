@@ -4,4 +4,5 @@
 <li> Introduction</li>
 <li>In Class Activity</li>
 <li>Week-1 Assignment</li>
+  <li>Week-1 Discussion</li>
 </ol>
